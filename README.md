@@ -13,3 +13,4 @@ Progress tracker for the Python Institute (https://pythoninstitute.org)
 - PE1 Module 4 Quiz result: 100% (70% to pass)
 - PE1 Module 4 Test result: 100% (70% to pass)
 - PE1 Summary Test result: 89% (70% to pass)
+- **PCEP-30-01 EXAM result: TBD**
