@@ -15,7 +15,7 @@ Progress tracker for the Python Institute (https://pythoninstitute.org)
 
 # Python Essentials 2 (PE2)
 - PE2 Module 1 Quiz result: 100% (70% to pass)
-- PE2 Module 1 Test result: TBD (70% to pass)
+- PE2 Module 1 Test result: 72% (70% to pass)
 - PE2 Module 2 Quiz result: TBD (70% to pass)
 - PE2 Module 2 Test result: TBD (70% to pass)
 - PE2 Module 3 Quiz result: TBD (70% to pass)
